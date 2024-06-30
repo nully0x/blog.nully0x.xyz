@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://nully0x.xyz/</loc>
+    </url>
+    <url>
+        <loc>https://nully0x.xyz/posts/</loc>
+    </url>
+    <url>
+        <loc>https://nully0x.xyz/posts/markdown/</loc>
+        <lastmod>2022-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://nully0x.xyz/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://nully0x.xyz/posts/toc/</loc>
+        <lastmod>2022-01-02</lastmod>
+    </url>
+    <url>
+        <loc>https://nully0x.xyz/projects/</loc>
+    </url>
+    <url>
+        <loc>https://nully0x.xyz/projects/well-ts/</loc>
+    </url>
+    <url>
+        <loc>https://nully0x.xyz/tags/</loc>
+    </url>
+    <url>
+        <loc>https://nully0x.xyz/tags/thoughts/</loc>
+    </url>
+</urlset>
