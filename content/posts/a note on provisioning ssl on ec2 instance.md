@@ -3,8 +3,6 @@ title = "A note on provisioning SSL on cloud instance or VPS"
 date = "2023-08-02"
 +++
 
-# A Note on Provisioning SSL on EC2 or Any VPS
-
 ## Introduction
 
 In today's digital landscape, securing websites with SSL/TLS certificates is crucial for protecting user data and maintaining trust. This article provides a comprehensive guide on provisioning SSL certificates using Let's Encrypt and managing an Nginx web server on EC2 or any Virtual Private Server (VPS).
