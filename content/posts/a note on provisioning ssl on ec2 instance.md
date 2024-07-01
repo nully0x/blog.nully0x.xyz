@@ -5,7 +5,7 @@ date = "2023-08-02"
 
 ## Introduction
 
-In today's digital landscape, securing websites with SSL/TLS certificates is crucial for protecting user data and maintaining trust. This article provides a comprehensive guide on provisioning SSL certificates using Let's Encrypt and managing an Nginx web server on EC2 or any Virtual Private Server (VPS).
+Securing websites with SSL/TLS certificates is crucial for protecting user data and maintaining trust. This article is a guide on provisioning SSL certificates using Let's Encrypt and managing an Nginx web server on EC2 or any Virtual Private Server (VPS).
 
 ## Provisioning SSL Certificates with Let's Encrypt
 
